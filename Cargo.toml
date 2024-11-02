@@ -2,7 +2,7 @@
 name = "leopard"
 version = "0.1.0"
 edition = "2021"
-description = "A WebDAV server. (Comming soon ...)
+description = "A WebDAV server. (Comming soon ...)"
 license = "MIT"
 license-file = "LICENSE"
 repository = "https://github.com/bayiburu/leopard"
